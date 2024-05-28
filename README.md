@@ -1,7 +1,4 @@
 # TO-DO LIST
-
-Presenting my passion project: The Sports Academy Landing Page Website!
-
 This project involves creating a dynamic and user-friendly to-do list application.
 
 ## Table of contents
